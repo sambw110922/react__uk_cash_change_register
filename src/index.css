@@ -1,0 +1,18 @@
+
+/*
+	Index.css
+	========
+	
+	The main CSS.
+	
+*/
+
+html, body {
+	position: absolute;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	left: 0; top: 0;
+	font-size: 18px;
+	font-family: "Ubuntu", sans-serif;
+}

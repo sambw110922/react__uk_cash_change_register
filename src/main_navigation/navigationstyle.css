@@ -1,0 +1,32 @@
+
+/*
+	Navigation style.css
+*/
+
+nav {
+	padding: 5%;
+	background-color: skyblue;
+	text-align: center;	
+} 
+
+nav h1 {
+	font-size: 2.5em;
+}
+
+#mainnavlink {
+	color: #000000;
+}
+
+#mainnavlink:hover, .submenuLink:hover {
+	text-decoration: none;
+}
+
+#submenu {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.submenuLink {
+	font-size: 1.5em;
+	color: #000000;
+}

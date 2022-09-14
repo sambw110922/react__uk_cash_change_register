@@ -1,0 +1,20 @@
+/*
+
+	Item cost display style.css
+
+*/
+
+#itemCostDisplayContainer {
+	display: grid;
+	grid-template-columns: 1fr;
+	padding: 2%;
+}
+
+#lblItemCostDisplay {
+	background-color: #CCFF33;
+	color: #006600;
+	padding: 2%;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.5em;
+}
